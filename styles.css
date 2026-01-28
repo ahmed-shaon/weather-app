@@ -103,6 +103,7 @@ body{
 }
 
 .error-message{
+    display: none;
     color: #ff4d4d;
     padding: 10px 0;
     border-radius: 5px;
